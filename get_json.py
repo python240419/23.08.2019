@@ -1,4 +1,4 @@
-import requests
+import requests # need to install in settings
 import json
 
 resp = requests.get\
